@@ -1,2 +1,2 @@
 # Way-Kambas-Cious
-Malware quarantine zone. This is my Ransomware booklet
+Malware quarantine zone. This is where my Lovely Malwares live
